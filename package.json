@@ -1,0 +1,23 @@
+{
+  "name": "test-error-code",
+  "version": "1.0.2",
+  "description": "return all error code",
+  "git repository": "https://github.com/islvfz/test-error-code.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "error",
+    "code"
+  ],
+  "author": "lvfz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "webpack": "^5.61.0",
+    "webpack-cli": "^4.9.1",
+    "yarn": "^1.22.17"
+  }
+}
